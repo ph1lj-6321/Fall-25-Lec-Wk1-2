@@ -1,1 +1,1 @@
-An example for Github demo and Debug with Thonny
+An example for Github demo, with Refactoring code,  also as used for Debug example with Thonny
